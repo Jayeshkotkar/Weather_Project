@@ -1,0 +1,18 @@
+.search-box {
+    margin-bottom: 30px;
+  }
+  
+  .search-box h3 {
+    color: #ffffff;
+    margin-bottom: 15px;
+  }
+  
+  .search-box form {
+    display: inline-block;
+  }
+  
+  .search-box .error {
+    color: red;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,11 @@
+.weather-app {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .weather-app h2 {
+    font-size: 3rem;
+    color: #ffffff;
+    margin-bottom: 30px;
+  }
+  

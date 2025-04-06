@@ -1,0 +1,16 @@
+.info-box {
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  
+  .info-box p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .info-box h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
